@@ -3,4 +3,4 @@
 3. In the input_dir folder make different folders containing images of different people.
 3. python aligndata_first.py
 4. python create_classifier_se.py
-5. python ?detect_facese_real_time_with_incFrame.py
+5. python detect_facese_real_time_with_incFrame.py
